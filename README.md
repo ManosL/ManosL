@@ -1,20 +1,34 @@
-# Hi 👋 My name is Manos
+# Hi 👋 I'm Manos
 
-## AI Engineer & Data Enthusiast
+## Data Engineer
 
-Dedicated Computer Scientist excelling in Data and Software Engineering with the ultimate goal of creating scalable Web Applications and deploying them worldwide.
+I'm a Data Engineer based in Athens, with a background spanning **Software Engineering, Data Science, and AI**.
 
-In terms of professional experience, I started working as a Software Engineer developing various features on betting platforms used by millions. My duties also involved analyzing specific requirements and deploying features to production. This experience provided powerful insights into real-world Web Application development and enhanced my ability to understand and analyze large, complex codebases.
+Currently, I work at **GWI**, building and maintaining production data systems using technologies such as **Airflow, dbt, BigQuery, GCP, Python, and SQL**. My work includes data pipelines, APIs, data transformation workflows, testing, and improving the maintainability of existing systems.
 
-Currently, I'm working as a Data Scientist, developing and experimenting with various AI models to make educational business processes more productive. In my current role, I have exposure to Cloud platforms and am working on developing a better understanding of the business aspects of AI projects and how they fit within an organization.
+Earlier in my career, I worked as a **Software Engineer at OpenBet**, contributing to large production codebases, and later as a **Data Scientist at PeopleCert**, where I built ML pipelines, APIs, and cloud-based AI applications.
 
-Beyond technical skills, I've also developed strong people skills, being an integral part of teams and communicating with various stakeholders. Personally, I focus on projects involving AI and Web Applications and am expanding my knowledge in Data Engineering foundations like Data Warehousing and Apache Spark. These foundations intrigue me, as I've been on both sides of Data Science and Software Engineering.
+I hold an **MSc in Artificial Intelligence**, and outside of work I enjoy building end-to-end Data and AI projects—particularly projects that combine data engineering, analytics, and machine learning.
 
-- 🌍  I'm based in Athens, Greece
-- 🖥️  See my portfolio at [my personal GitHub](http://github.com/ManosL)
-- ✉️  You can contact me at [manolislykos97@hotmail.gr](mailto:manolislykos97@hotmail.gr)
-- 🧠  I'm learning Data Warehousing & Apache Spark
-- 🤝  I'm open to collaborating on projects involving Web Applications using AI and Data Engineering
+### What I work with
+
+* **Data Engineering:** Airflow, dbt, BigQuery, PostgreSQL, PySpark
+* **Cloud & Infrastructure:** GCP, Azure, Docker
+* **Development:** Python, SQL, FastAPI, Git
+* **Data & AI:** MLflow, Power BI, Machine Learning
+
+### Current interests
+
+* Building maintainable data platforms and pipelines
+* Data modeling and warehouse design
+* Data quality, testing, and automation
+* Applying Software Engineering practices to Data Engineering
+* End-to-end Data and ML systems
+
+🌍 Athens, Greece
+✉️ [manolislykos97@hotmail.gr](mailto:manolislykos97@hotmail.gr)
+🤝 Open to connecting and collaborating on Data Engineering and AI projects
+
 
 ### Skills
 
